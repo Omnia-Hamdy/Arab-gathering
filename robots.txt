@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://arab-gathering.pages.dev/sitemap.xml
